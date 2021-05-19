@@ -1,1 +1,1 @@
-{v:"2021020101",u:"https://github.com/alohabooster/alohabooster/blob/master/a",a:1}
+{v:"2021020101",u:"https://alohabooster.github.com/alohabooster/a",a:1}
